@@ -3,4 +3,4 @@
 3. Execute command: ./server
    	   	    ./client pyrite <command> or ./client pyrite-n2 <command>
 
-4. I failed to send the stdout and stderror back to the client. Some constructive feedbacks from the TAs will be greatly appreciated. 
+4. I failed to send the stdout and stderror back to the client. 
